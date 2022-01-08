@@ -7,3 +7,5 @@ Saiba mais em [www.appdahora.com.br]http://www.appdahora.com.br
 Gostou do curso? Quer mais? Ajude com uma doação
 
 Teste com repositório remoto
+
+Até agora tudo funcionando direitinho
