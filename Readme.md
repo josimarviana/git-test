@@ -10,6 +10,8 @@ Teste com repositório remoto
 
 Até agora tudo funcionando direitinho
 
+> Inserindo citação
+
 :stuck_out_tongue_winking_eye:
 
 ![Barreiro](barreiro.jpeg)
