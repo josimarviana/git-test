@@ -1,10 +1,10 @@
 # Git test
 
-Este é um repositório teste para mostrar como o git funciona
+## Este é um repositório teste para mostrar como o git funciona
 
-Saiba mais em [www.appdahora.com.br]http://www.appdahora.com.br
+Saiba mais em [AppdaHora](http://www.appdahora.com.br)
 
-Gostou do curso? Quer mais? Ajude com uma doação
+Gostou do teste? Ajude com um **comentário**
 
 Teste com repositório remoto
 
