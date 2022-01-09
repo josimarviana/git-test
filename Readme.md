@@ -21,3 +21,7 @@ int main (){
 :stuck_out_tongue_winking_eye:
 
 ![Barreiro](barreiro.jpeg)
+
+TO-DO
+.Entender
+.Estudar
