@@ -9,11 +9,11 @@ Gostou do teste? Ajude com um **comentário**
 Teste com repositório remoto
 
 Até agora tudo funcionando direitinho
-'''
+~~~
 int main (){
 	return 0;
 }
-'''
+~~~
 
 
 > Inserindo citação
