@@ -23,5 +23,5 @@ int main (){
 ![Barreiro](barreiro.jpeg)
 
 TO-DO
-.Entender
-.Estudar
+1.Entender
+2.Estudar
